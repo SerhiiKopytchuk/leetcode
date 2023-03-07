@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		401037A029B7402A0033826A /* Leetcode solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode solutions"; sourceTree = BUILT_PRODUCTS_DIR; };
+		401037A029B7402A0033826A /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		401037A329B7402A0033826A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		4010379729B7402A0033826A = {
 			isa = PBXGroup;
 			children = (
-				401037A229B7402A0033826A /* Leetcode solutions */,
+				401037A229B7402A0033826A /* Problems */,
 				401037A129B7402A0033826A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		401037A129B7402A0033826A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				401037A029B7402A0033826A /* Leetcode solutions */,
+				401037A029B7402A0033826A /* Problems */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		401037A229B7402A0033826A /* Leetcode solutions */ = {
+		401037A229B7402A0033826A /* Problems */ = {
 			isa = PBXGroup;
 			children = (
 				401037A329B7402A0033826A /* main.swift */,
 			);
-			path = "Leetcode solutions";
+			path = Problems;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4010379F29B7402A0033826A /* Leetcode solutions */ = {
+		4010379F29B7402A0033826A /* Problems */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 401037A729B7402A0033826A /* Build configuration list for PBXNativeTarget "Leetcode solutions" */;
+			buildConfigurationList = 401037A729B7402A0033826A /* Build configuration list for PBXNativeTarget "Problems" */;
 			buildPhases = (
 				4010379C29B7402A0033826A /* Sources */,
 				4010379D29B7402A0033826A /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "Leetcode solutions";
+			name = Problems;
 			productName = "Leetcode solutions";
-			productReference = 401037A029B7402A0033826A /* Leetcode solutions */;
+			productReference = 401037A029B7402A0033826A /* Problems */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4010379B29B7402A0033826A /* Build configuration list for PBXProject "Leetcode solutions" */;
+			buildConfigurationList = 4010379B29B7402A0033826A /* Build configuration list for PBXProject "Problems" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4010379F29B7402A0033826A /* Leetcode solutions */,
+				4010379F29B7402A0033826A /* Problems */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4010379B29B7402A0033826A /* Build configuration list for PBXProject "Leetcode solutions" */ = {
+		4010379B29B7402A0033826A /* Build configuration list for PBXProject "Problems" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				401037A529B7402A0033826A /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		401037A729B7402A0033826A /* Build configuration list for PBXNativeTarget "Leetcode solutions" */ = {
+		401037A729B7402A0033826A /* Build configuration list for PBXNativeTarget "Problems" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				401037A829B7402A0033826A /* Debug */,
