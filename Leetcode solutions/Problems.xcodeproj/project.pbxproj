@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		401037A429B7402A0033826A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401037A329B7402A0033826A /* main.swift */; };
+		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
+		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
+		40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		401037A029B7402A0033826A /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		401037A329B7402A0033826A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
+		40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +64,19 @@
 			isa = PBXGroup;
 			children = (
 				401037A329B7402A0033826A /* main.swift */,
+				40AE84C729B8BF60007603D8 /* Nodes */,
+				40AE84CA29B8BF8C007603D8 /* PathSum3.swift */,
+				40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */,
 			);
 			path = Problems;
+			sourceTree = "<group>";
+		};
+		40AE84C729B8BF60007603D8 /* Nodes */ = {
+			isa = PBXGroup;
+			children = (
+				40AE84C829B8BF77007603D8 /* TreeNode.swift */,
+			);
+			path = Nodes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +137,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
+				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
+				40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

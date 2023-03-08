@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
+/// Here you can run and test my solutions.
 
