@@ -7,13 +7,15 @@
 
 import Foundation
 
+// time: O(n)
+// space: O(n)
 func pathSum(_ root: TreeNode?, _ targetSum: Int) -> Int {
         var res = 0
         var map:[Int:Int] = [:]
 
         func findSum(_ root: TreeNode?, _ r: Int) {
             guard let val = root?.val else { return }
-            var curSum = val + r
+            let curSum = val + r
             if curSum == targetSum {
                 res += 1
             }

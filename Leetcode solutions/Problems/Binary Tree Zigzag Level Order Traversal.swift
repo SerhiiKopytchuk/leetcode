@@ -7,6 +7,8 @@
 
 import Foundation
 
+// time: O(n)
+// space: O(n)
 func zigzagLevelOrder(_ root: TreeNode?) -> [[Int]] {
     guard root != nil else { return [] }
     var res: [[Int]] = []
