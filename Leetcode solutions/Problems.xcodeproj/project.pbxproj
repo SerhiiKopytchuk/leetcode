@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		401037A429B7402A0033826A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401037A329B7402A0033826A /* main.swift */; };
+		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
 		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
 		40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */; };
@@ -31,6 +32,7 @@
 /* Begin PBXFileReference section */
 		401037A029B7402A0033826A /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		401037A329B7402A0033826A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
 		40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */,
 				40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */,
 				40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */,
+				40A71C0F29BB2D49008F4585 /* Largest Number.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */,
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
+				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
 				40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
