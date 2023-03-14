@@ -7,6 +7,8 @@
 
 import Foundation
 
+// time: O(n)
+// space: O(1)
 func reorderList(_ head: ListNode?) {
     guard let head = head else { return }
     var cur: ListNode? = head
@@ -25,6 +27,8 @@ func reorderList(_ head: ListNode?) {
 
 }
 
+// time: O(n)
+// space: O(1)
 func getMid(_ head: ListNode?) -> ListNode? {
     var slow = head
     var fast = head?.next
@@ -37,6 +41,8 @@ func getMid(_ head: ListNode?) -> ListNode? {
     return mid
 }
 
+// time: O(n)
+// space: O(1)
 func rotate(_ head: ListNode?) -> ListNode? {
     var prev: ListNode? = nil
     var cur = head
