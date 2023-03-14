@@ -22,6 +22,7 @@
 		40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */; };
 		40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */; };
 		40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */; };
+		40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -53,6 +54,7 @@
 		40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Repeating Character Replacement.swift"; sourceTree = "<group>"; };
 		40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Pow(x, n).swift"; sourceTree = "<group>"; };
 		40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Search a 2D matrix.swift"; sourceTree = "<group>"; };
+		40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Cheapest Flights Within K Stops.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				4058EEBC29BC996300CDF424 /* Reverse Integer.swift */,
 				40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */,
 				407C36E129C0680300F6CA48 /* Reorder List.swift */,
+				40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
 				407C36E229C0680300F6CA48 /* Reorder List.swift in Sources */,
 				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
+				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
 				4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */,
