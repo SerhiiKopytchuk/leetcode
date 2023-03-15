@@ -16,6 +16,7 @@
 		407C36E829C0684200F6CA48 /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407C36E729C0684200F6CA48 /* Heap.swift */; };
 		407D901829C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */; };
 		407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */; };
+		407D901C29C1CB5400643ED6 /* Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901B29C1CB5400643ED6 /* Rotate List.swift */; };
 		40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
@@ -50,6 +51,7 @@
 		407C36E729C0684200F6CA48 /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Nodes Distance K in Binary Tree.swift"; sourceTree = "<group>"; };
 		407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3Sum Closest.swift"; sourceTree = "<group>"; };
+		407D901B29C1CB5400643ED6 /* Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotate List.swift"; sourceTree = "<group>"; };
 		40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeros.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */,
 				407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */,
 				407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */,
+				407D901B29C1CB5400643ED6 /* Rotate List.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
+				407D901C29C1CB5400643ED6 /* Rotate List.swift in Sources */,
 				4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */,
 				40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */,
 				407C36E429C0681A00F6CA48 /* ListNode.swift in Sources */,
