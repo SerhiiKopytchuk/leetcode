@@ -15,6 +15,7 @@
 		407C36E629C0683700F6CA48 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407C36E529C0683700F6CA48 /* Node.swift */; };
 		407C36E829C0684200F6CA48 /* Heap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407C36E729C0684200F6CA48 /* Heap.swift */; };
 		407D901829C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */; };
+		407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */; };
 		40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
@@ -48,6 +49,7 @@
 		407C36E529C0683700F6CA48 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		407C36E729C0684200F6CA48 /* Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heap.swift; sourceTree = "<group>"; };
 		407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Nodes Distance K in Binary Tree.swift"; sourceTree = "<group>"; };
+		407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3Sum Closest.swift"; sourceTree = "<group>"; };
 		40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeros.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				407C36E129C0680300F6CA48 /* Reorder List.swift */,
 				40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */,
 				407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */,
+				407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -188,6 +191,7 @@
 				40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */,
 				407C36E429C0681A00F6CA48 /* ListNode.swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
+				407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */,
 				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
 				4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */,
 				40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */,
