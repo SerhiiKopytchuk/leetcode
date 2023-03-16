@@ -16,7 +16,7 @@ func findCheapestPrice(_ n: Int, _ flights: [[Int]], _ src: Int, _ dst: Int, _ k
     for _ in 0...k {
         var tmpPrices = prices
         for flight in flights where prices[flight[0]] != Int.max {
-            var s = flight[0], d = flight[1], p = flight[2]
+            let s = flight[0], d = flight[1], p = flight[2]
 
             if prices[s] + p < tmpPrices[d] {
                 tmpPrices[d] = prices[s] + p

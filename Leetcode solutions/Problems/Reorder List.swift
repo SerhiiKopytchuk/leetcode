@@ -12,12 +12,12 @@ import Foundation
 func reorderList(_ head: ListNode?) {
     guard let head = head else { return }
     var cur: ListNode? = head
-    var secondHalf = getMid(head)
+    let secondHalf = getMid(head)
     var second = rotate(secondHalf)
 
 
     while second != nil && cur != nil {
-        var next: ListNode? = cur?.next
+        let next: ListNode? = cur?.next
         cur?.next = second
         second = second?.next
         cur = cur?.next
@@ -36,7 +36,7 @@ func getMid(_ head: ListNode?) -> ListNode? {
         slow = slow?.next
         fast = fast?.next?.next
     }
-    var mid = slow?.next
+    let mid = slow?.next
     slow?.next = nil
     return mid
 }
@@ -48,7 +48,7 @@ func rotate(_ head: ListNode?) -> ListNode? {
     var cur = head
 
     while cur != nil {
-        var next = cur?.next
+        let next = cur?.next
         cur?.next = prev
         prev = cur
         cur = next

@@ -32,7 +32,7 @@ func distanceK(_ root: TreeNode?, _ target: TreeNode?, _ k: Int) -> [Int] {
     var count = 0
 
     while !q.isEmpty && count != k {
-        var c = q.count
+        let c = q.count
         for _ in 0..<c {
             let cur = q.removeFirst()
             visited.insert(cur)

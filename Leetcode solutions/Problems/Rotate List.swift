@@ -18,14 +18,14 @@ func rotateRight(_ head: ListNode?, _ k: Int) -> ListNode? {
         length += 1
     }
 
-    var k = k % length
+    let k = k % length
     guard k > 0 else { return head }
 
     var cur = head
     for _ in 0..<(length - k - 1) {
         cur = cur?.next
     }
-    var newHead = cur?.next
+    let newHead = cur?.next
     cur?.next = nil
     tail?.next = head
 

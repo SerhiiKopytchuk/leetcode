@@ -11,7 +11,7 @@ import Foundation
 // space: O(n)
 func threeSumClosest(_ nums: [Int], _ target: Int) -> Int {
     var closest = nums[0] + nums[1] + nums[nums.count - 1]
-    var nums = nums.sorted()
+    let nums = nums.sorted()
 
     for i in 0..<nums.count - 2 {
         var a = i + 1
