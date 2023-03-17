@@ -20,6 +20,7 @@
 		407D901C29C1CB5400643ED6 /* Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901B29C1CB5400643ED6 /* Rotate List.swift */; };
 		40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
+		40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
 		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
 		40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */; };
@@ -58,6 +59,7 @@
 		407D901B29C1CB5400643ED6 /* Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotate List.swift"; sourceTree = "<group>"; };
 		40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeros.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
+		40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Insert Delete GetRandom O(1).swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
 		40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				40DD573B29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift */,
 				40DD573D29C343DD0091793E /* Basic Calculator II.swift */,
 				4054468129C46E530099D6F9 /* Combination Sum IV.swift */,
+				40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
 				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */,
+				40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
 				40DD573C29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift in Sources */,
