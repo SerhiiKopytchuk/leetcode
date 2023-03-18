@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */; };
+		400CFCC829C5CB2E007DC1C6 /* Non-overlapping Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */; };
 		401037A429B7402A0033826A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401037A329B7402A0033826A /* main.swift */; };
 		4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4054468129C46E530099D6F9 /* Combination Sum IV.swift */; };
 		4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meeting Rooms.swift"; sourceTree = "<group>"; };
+		400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-overlapping Intervals.swift"; sourceTree = "<group>"; };
 		401037A029B7402A0033826A /* Problems */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problems; sourceTree = BUILT_PRODUCTS_DIR; };
 		401037A329B7402A0033826A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		4054468129C46E530099D6F9 /* Combination Sum IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Combination Sum IV.swift"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				4054468129C46E530099D6F9 /* Combination Sum IV.swift */,
 				40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */,
 				400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */,
+				400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
 				407C36E229C0680300F6CA48 /* Reorder List.swift in Sources */,
 				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
+				400CFCC829C5CB2E007DC1C6 /* Non-overlapping Intervals.swift in Sources */,
 				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */,
 				400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */,
