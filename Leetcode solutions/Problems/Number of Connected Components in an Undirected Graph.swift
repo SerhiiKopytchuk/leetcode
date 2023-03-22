@@ -29,7 +29,7 @@ func countComponents(n: Int, edges:[[Int]]) -> Int {
     }
 
     func union(_ n1: Int, _ n2: Int) -> Int {
-        var p1 = find(n1), p2 = find(n2)
+        let p1 = find(n1), p2 = find(n2)
 
         guard p1 != p2 else { return 0 }
 
