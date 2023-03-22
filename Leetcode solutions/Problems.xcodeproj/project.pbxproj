@@ -37,6 +37,7 @@
 		40DD573C29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DD573B29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift */; };
 		40DD573E29C343DD0091793E /* Basic Calculator II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40DD573D29C343DD0091793E /* Basic Calculator II.swift */; };
 		40F57C2F29CAFB93006F488B /* Number of Provinces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F57C2E29CAFB93006F488B /* Number of Provinces.swift */; };
+		40F57C3129CB07C4006F488B /* Minimum Knight Moves.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F57C3029CB07C4006F488B /* Minimum Knight Moves.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -83,6 +84,7 @@
 		40DD573B29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find Minimum in Rotated Sorted Array.swift"; sourceTree = "<group>"; };
 		40DD573D29C343DD0091793E /* Basic Calculator II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Calculator II.swift"; sourceTree = "<group>"; };
 		40F57C2E29CAFB93006F488B /* Number of Provinces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Provinces.swift"; sourceTree = "<group>"; };
+		40F57C3029CB07C4006F488B /* Minimum Knight Moves.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Knight Moves.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */,
 				40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */,
 				40F57C2E29CAFB93006F488B /* Number of Provinces.swift */,
+				40F57C3029CB07C4006F488B /* Minimum Knight Moves.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */,
 				40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */,
 				40A4781429C8E4E90057102D /* Graph Valid Tree.swift in Sources */,
+				40F57C3129CB07C4006F488B /* Minimum Knight Moves.swift in Sources */,
 				40F57C2F29CAFB93006F488B /* Number of Provinces.swift in Sources */,
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
 				407C36E229C0680300F6CA48 /* Reorder List.swift in Sources */,
