@@ -26,6 +26,7 @@
 		40A4781629C9A35D0057102D /* Inorder Successor in BTS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */; };
 		40A4781829C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
+		40A85A2E29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */; };
 		40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
 		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
@@ -76,6 +77,7 @@
 		40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inorder Successor in BTS.swift"; sourceTree = "<group>"; };
 		40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Connected Components in an Undirected Graph.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
+		40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Serialize and Deserialize Binary Tree .swift"; sourceTree = "<group>"; };
 		40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Insert Delete GetRandom O(1).swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				40F57C3229CB1241006F488B /* Hit Counter.swift */,
 				40BEBD3B29CC302300F1825A /*  Meeting Rooms II.swift */,
 				40BEBD3D29CC408F00F1825A /* Encode and Decode Strings.swift */,
+				40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */,
 				40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */,
 				407C36E429C0681A00F6CA48 /* ListNode.swift in Sources */,
+				40A85A2E29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
 				407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */,
 				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
