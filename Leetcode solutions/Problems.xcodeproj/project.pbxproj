@@ -27,6 +27,7 @@
 		40A4781829C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
 		40A85A2E29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */; };
+		40A85A3029D179D100CAA600 /* Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */; };
 		40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */; };
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
 		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
@@ -78,6 +79,7 @@
 		40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Connected Components in an Undirected Graph.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
 		40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Serialize and Deserialize Binary Tree .swift"; sourceTree = "<group>"; };
+		40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Window Substring.swift"; sourceTree = "<group>"; };
 		40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Insert Delete GetRandom O(1).swift"; sourceTree = "<group>"; };
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				40BEBD3B29CC302300F1825A /*  Meeting Rooms II.swift */,
 				40BEBD3D29CC408F00F1825A /* Encode and Decode Strings.swift */,
 				40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */,
+				40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				40BEBD3C29CC302300F1825A /*  Meeting Rooms II.swift in Sources */,
 				40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
+				40A85A3029D179D100CAA600 /* Minimum Window Substring.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
 				40F57C3329CB1241006F488B /* Hit Counter.swift in Sources */,
 				40DD573C29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift in Sources */,
