@@ -14,7 +14,7 @@ func reverse(_ x: Int) -> Int {
     var x = x
 
     while x != 0 {
-        var digit = x % 10
+        let digit = x % 10
         x = x / 10
 
         if (res > Int32.max / 10 || (res == Int32.max / 10 && digit >= Int32.max % 10)) {

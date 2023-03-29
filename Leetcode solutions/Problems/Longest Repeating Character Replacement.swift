@@ -10,7 +10,7 @@ import Foundation
 // time: O(n)
 // space: O(1)
 func characterReplacement(_ s: String, _ k: Int) -> Int {
-    var s = Array(s)
+    let s = Array(s)
     var map:[Character:Int] = [:]
     var res = 0
     var l = 0

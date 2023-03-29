@@ -10,7 +10,7 @@ import Foundation
 // time: O(n)
 // space: O(1)
 func numDecodings(_ s: String) -> Int {
-    var s = Array(s)
+    let s = Array(s)
     var cur = 0, plus1 = 1, plus2 = 0
 
     for i in (0..<s.count).reversed() {

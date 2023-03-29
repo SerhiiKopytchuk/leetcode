@@ -33,6 +33,7 @@
 		40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84C829B8BF77007603D8 /* TreeNode.swift */; };
 		40AE84CB29B8BF8C007603D8 /* PathSum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CA29B8BF8C007603D8 /* PathSum3.swift */; };
 		40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */; };
+		40B4BACA29D485540082BCE9 /* Word Ladder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40B4BAC929D485540082BCE9 /* Word Ladder.swift */; };
 		40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */; };
 		40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */; };
 		40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */; };
@@ -87,6 +88,7 @@
 		40AE84C829B8BF77007603D8 /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
 		40AE84CA29B8BF8C007603D8 /* PathSum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathSum3.swift; sourceTree = "<group>"; };
 		40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Zigzag Level Order Traversal.swift"; sourceTree = "<group>"; };
+		40B4BAC929D485540082BCE9 /* Word Ladder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Word Ladder.swift"; sourceTree = "<group>"; };
 		40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Repeating Character Replacement.swift"; sourceTree = "<group>"; };
 		40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Pow(x, n).swift"; sourceTree = "<group>"; };
 		40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Search a 2D matrix.swift"; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */,
 				40F1175229D2D95F00B56CC0 /* Trapping Rain Water.swift */,
 				4027736D29D42118000378C8 /* Find Median from Data Stream.swift */,
+				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -209,7 +212,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1430;
 				TargetAttributes = {
 					4010379F29B7402A0033826A = {
 						CreatedOnToolsVersion = 14.2;
@@ -246,6 +249,7 @@
 				40F57C3129CB07C4006F488B /* Minimum Knight Moves.swift in Sources */,
 				40F57C2F29CAFB93006F488B /* Number of Provinces.swift in Sources */,
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
+				40B4BACA29D485540082BCE9 /* Word Ladder.swift in Sources */,
 				407C36E229C0680300F6CA48 /* Reorder List.swift in Sources */,
 				40F1175329D2D95F00B56CC0 /* Trapping Rain Water.swift in Sources */,
 				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
@@ -316,6 +320,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -376,6 +381,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -400,6 +406,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H6466NBM9Y;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -411,6 +418,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = H6466NBM9Y;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
