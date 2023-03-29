@@ -13,7 +13,7 @@ func minWindow(_ s: String, _ t: String) -> String {
        guard s != t else { return t }
        guard s.count >= t.count else { return "" }
 
-       var s = Array(s)
+       let s = Array(s)
        var tMap = [Character:Int]()
        var window = [Character:Int]()
 
@@ -22,7 +22,7 @@ func minWindow(_ s: String, _ t: String) -> String {
        }
 
        var have = 0
-       var need = tMap.values.count
+       let need = tMap.values.count
 
        var res = [-1, Int.max]
 
