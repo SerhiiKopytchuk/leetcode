@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		40058F8129D58B010027FF67 /* Basic Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40058F8029D58B010027FF67 /* Basic Calculator.swift */; };
 		400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */; };
 		400CFCC829C5CB2E007DC1C6 /* Non-overlapping Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */; };
 		400CFCCA29C5F832007DC1C6 /* Shortest Path to Get Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */; };
@@ -61,6 +62,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		40058F8029D58B010027FF67 /* Basic Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Calculator.swift"; sourceTree = "<group>"; };
 		400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meeting Rooms.swift"; sourceTree = "<group>"; };
 		400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-overlapping Intervals.swift"; sourceTree = "<group>"; };
 		400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Path to Get Food.swift"; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				40F1175229D2D95F00B56CC0 /* Trapping Rain Water.swift */,
 				4027736D29D42118000378C8 /* Find Median from Data Stream.swift */,
 				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
+				40058F8029D58B010027FF67 /* Basic Calculator.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				40BEBD3C29CC302300F1825A /*  Meeting Rooms II.swift in Sources */,
 				40AA299D29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift in Sources */,
 				40BBF6AF29B9F53000AADCFB /* Search a 2D matrix.swift in Sources */,
+				40058F8129D58B010027FF67 /* Basic Calculator.swift in Sources */,
 				40A85A3029D179D100CAA600 /* Minimum Window Substring.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
 				40F57C3329CB1241006F488B /* Hit Counter.swift in Sources */,
