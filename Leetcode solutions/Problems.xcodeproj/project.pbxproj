@@ -28,6 +28,7 @@
 		40A4781429C8E4E90057102D /* Graph Valid Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781329C8E4E90057102D /* Graph Valid Tree.swift */; };
 		40A4781629C9A35D0057102D /* Inorder Successor in BTS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */; };
 		40A4781829C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */; };
+		40A4906A29D8368400597376 /* Merge k Sorted Lists.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4906929D8368400597376 /* Merge k Sorted Lists.swift */; };
 		40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A71C0F29BB2D49008F4585 /* Largest Number.swift */; };
 		40A85A2E29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */; };
 		40A85A3029D179D100CAA600 /* Minimum Window Substring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */; };
@@ -85,6 +86,7 @@
 		40A4781329C8E4E90057102D /* Graph Valid Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Graph Valid Tree.swift"; sourceTree = "<group>"; };
 		40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inorder Successor in BTS.swift"; sourceTree = "<group>"; };
 		40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Connected Components in an Undirected Graph.swift"; sourceTree = "<group>"; };
+		40A4906929D8368400597376 /* Merge k Sorted Lists.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Merge k Sorted Lists.swift"; sourceTree = "<group>"; };
 		40A71C0F29BB2D49008F4585 /* Largest Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Largest Number.swift"; sourceTree = "<group>"; };
 		40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Serialize and Deserialize Binary Tree .swift"; sourceTree = "<group>"; };
 		40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Minimum Window Substring.swift"; sourceTree = "<group>"; };
@@ -175,6 +177,7 @@
 				4027736D29D42118000378C8 /* Find Median from Data Stream.swift */,
 				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
 				4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */,
+				40A4906929D8368400597376 /* Merge k Sorted Lists.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40A4906A29D8368400597376 /* Merge k Sorted Lists.swift in Sources */,
 				40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */,
 				40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */,
 				40A4781429C8E4E90057102D /* Graph Valid Tree.swift in Sources */,
