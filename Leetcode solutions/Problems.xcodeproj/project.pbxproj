@@ -27,6 +27,7 @@
 		407D901C29C1CB5400643ED6 /* Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901B29C1CB5400643ED6 /* Rotate List.swift */; };
 		40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */; };
 		40A2BC1129DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */; };
+		40A2BC1329DD672C000E2A9E /* Maximum Frequency Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */; };
 		40A4781429C8E4E90057102D /* Graph Valid Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781329C8E4E90057102D /* Graph Valid Tree.swift */; };
 		40A4781629C9A35D0057102D /* Inorder Successor in BTS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */; };
 		40A4781829C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */; };
@@ -87,6 +88,7 @@
 		407D901B29C1CB5400643ED6 /* Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotate List.swift"; sourceTree = "<group>"; };
 		40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeros.swift"; sourceTree = "<group>"; };
 		40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
+		40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Frequency Stack.swift"; sourceTree = "<group>"; };
 		40A4781329C8E4E90057102D /* Graph Valid Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Graph Valid Tree.swift"; sourceTree = "<group>"; };
 		40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Inorder Successor in BTS.swift"; sourceTree = "<group>"; };
 		40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Connected Components in an Undirected Graph.swift"; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				40A4906929D8368400597376 /* Merge k Sorted Lists.swift */,
 				405F7DB529DC184E00ECBA6D /* Largest Rectangle in Histogram.swift */,
 				40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */,
+				40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				40BBF6AA29B9CED100AADCFB /* Longest Repeating Character Replacement.swift in Sources */,
 				40A4781429C8E4E90057102D /* Graph Valid Tree.swift in Sources */,
 				40BEBD3E29CC408F00F1825A /* Encode and Decode Strings.swift in Sources */,
+				40A2BC1329DD672C000E2A9E /* Maximum Frequency Stack.swift in Sources */,
 				40F57C3129CB07C4006F488B /* Minimum Knight Moves.swift in Sources */,
 				40F57C2F29CAFB93006F488B /* Number of Provinces.swift in Sources */,
 				40BBF6AD29B9D6FA00AADCFB /*  Pow(x, n).swift in Sources */,
