@@ -26,6 +26,7 @@
 		407D901829C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */; };
 		407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */; };
 		407D901C29C1CB5400643ED6 /* Rotate List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 407D901B29C1CB5400643ED6 /* Rotate List.swift */; };
+		4088ED0629E3D10700AC499B /* Longest Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */; };
 		40980ECE29BF97AE00BBA661 /* Set Matrix Zeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */; };
 		40A2BC1129DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */; };
 		40A2BC1329DD672C000E2A9E /* Maximum Frequency Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */; };
@@ -89,6 +90,7 @@
 		407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "All Nodes Distance K in Binary Tree.swift"; sourceTree = "<group>"; };
 		407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3Sum Closest.swift"; sourceTree = "<group>"; };
 		407D901B29C1CB5400643ED6 /* Rotate List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotate List.swift"; sourceTree = "<group>"; };
+		4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Valid Parentheses.swift"; sourceTree = "<group>"; };
 		40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Set Matrix Zeros.swift"; sourceTree = "<group>"; };
 		40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary Tree Maximum Path Sum.swift"; sourceTree = "<group>"; };
 		40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Frequency Stack.swift"; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */,
 				40E850C829DEBBFB0099CAD5 /* Median of Two Sorted Arrays.swift */,
 				402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */,
+				4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				407C36E429C0681A00F6CA48 /* ListNode.swift in Sources */,
 				405F7DB629DC184E00ECBA6D /* Largest Rectangle in Histogram.swift in Sources */,
 				40A85A2E29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift in Sources */,
+				4088ED0629E3D10700AC499B /* Longest Valid Parentheses.swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
 				407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */,
 				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
