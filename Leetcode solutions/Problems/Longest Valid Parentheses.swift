@@ -10,7 +10,7 @@ import Foundation
 /// time: O(n)
 /// space: O(n)
 func longestValidParenthesesUsingStack(_ s: String) -> Int {
-    var s = s.map { "\($0)" }
+    let s = s.map { "\($0)" }
     var stack: [Int] = [-1]
     var res = 0
 
@@ -34,7 +34,7 @@ func longestValidParenthesesUsingStack(_ s: String) -> Int {
 /// time: O(n)
 /// space: O(1)
 func longestValidParenthesesUsingCounters(_ s: String) -> Int {
-    var s = s.map { "\($0)" }
+    let s = s.map { "\($0)" }
     var o = 0, c = 0
     var res = 0
 
