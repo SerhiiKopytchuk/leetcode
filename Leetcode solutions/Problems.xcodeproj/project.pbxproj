@@ -15,6 +15,7 @@
 		4027736E29D42118000378C8 /* Find Median from Data Stream.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4027736D29D42118000378C8 /* Find Median from Data Stream.swift */; };
 		402FCC8229E2A112006233CE /* Longest Increasing Path in a Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */; };
 		4048E48729D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */; };
+		404C4E652C3D4C12008B25DD /* Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E642C3D4C12008B25DD /* Task Scheduler.swift */; };
 		4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4054468129C46E530099D6F9 /* Combination Sum IV.swift */; };
 		4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */; };
 		4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBC29BC996300CDF424 /* Reverse Integer.swift */; };
@@ -80,6 +81,7 @@
 		4027736D29D42118000378C8 /* Find Median from Data Stream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Find Median from Data Stream.swift"; sourceTree = "<group>"; };
 		402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Longest Increasing Path in a Matrix.swift"; sourceTree = "<group>"; };
 		4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Profit in Job Scheduling.swift"; sourceTree = "<group>"; };
+		404C4E642C3D4C12008B25DD /* Task Scheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task Scheduler.swift"; sourceTree = "<group>"; };
 		4054468129C46E530099D6F9 /* Combination Sum IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Combination Sum IV.swift"; sourceTree = "<group>"; };
 		4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decode Ways.swift"; sourceTree = "<group>"; };
 		4058EEBC29BC996300CDF424 /* Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -199,6 +201,7 @@
 				402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */,
 				4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */,
 				4088ED0729E3D55B00AC499B /* Design In-Memory File System.swift */,
+				404C4E642C3D4C12008B25DD /* Task Scheduler.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				40A4781629C9A35D0057102D /* Inorder Successor in BTS.swift in Sources */,
 				40A4781829C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift in Sources */,
 				400CFCC829C5CB2E007DC1C6 /* Non-overlapping Intervals.swift in Sources */,
+				404C4E652C3D4C12008B25DD /* Task Scheduler.swift in Sources */,
 				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */,
 				400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */,

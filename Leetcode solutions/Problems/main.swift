@@ -8,4 +8,3 @@
 import Foundation
 
 /// Here you can run and test my solutions.
-
