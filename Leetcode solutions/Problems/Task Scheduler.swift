@@ -11,7 +11,7 @@ import Foundation
 /// space: O(26 * 2)
 func leastInterval(_ tasks: [Character], _ n: Int) -> Int {
     var time = 0
-    var numCount = Array(tasks.reduce(into: [Character:Int]()) {$0[$1, default: 0] += 1 }.values)
+    let numCount = Array(tasks.reduce(into: [Character:Int]()) {$0[$1, default: 0] += 1 }.values)
 
     var heap: Heap<Int> = Heap(array: numCount) { $0 > $1 }
     var q: [[Int]] = [] // [val, timeAvailable]
