@@ -17,6 +17,7 @@
 		4048E48729D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */; };
 		404C4E652C3D4C12008B25DD /* Task Scheduler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E642C3D4C12008B25DD /* Task Scheduler.swift */; };
 		404C4E672C3ECC5A008B25DD /* Diameter Of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */; };
+		404C4E692C3FCF5A008B25DD /* Course Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E682C3FCF5A008B25DD /* Course Schedule.swift */; };
 		4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4054468129C46E530099D6F9 /* Combination Sum IV.swift */; };
 		4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */; };
 		4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBC29BC996300CDF424 /* Reverse Integer.swift */; };
@@ -84,6 +85,7 @@
 		4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Profit in Job Scheduling.swift"; sourceTree = "<group>"; };
 		404C4E642C3D4C12008B25DD /* Task Scheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Task Scheduler.swift"; sourceTree = "<group>"; };
 		404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diameter Of Binary Tree.swift"; sourceTree = "<group>"; };
+		404C4E682C3FCF5A008B25DD /* Course Schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule.swift"; sourceTree = "<group>"; };
 		4054468129C46E530099D6F9 /* Combination Sum IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Combination Sum IV.swift"; sourceTree = "<group>"; };
 		4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decode Ways.swift"; sourceTree = "<group>"; };
 		4058EEBC29BC996300CDF424 /* Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -205,6 +207,7 @@
 				4088ED0729E3D55B00AC499B /* Design In-Memory File System.swift */,
 				404C4E642C3D4C12008B25DD /* Task Scheduler.swift */,
 				404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */,
+				404C4E682C3FCF5A008B25DD /* Course Schedule.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				4088ED0629E3D10700AC499B /* Longest Valid Parentheses.swift in Sources */,
 				401037A429B7402A0033826A /* main.swift in Sources */,
 				407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */,
+				404C4E692C3FCF5A008B25DD /* Course Schedule.swift in Sources */,
 				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
 				4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */,
 				40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */,
