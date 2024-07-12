@@ -19,6 +19,7 @@
 		404C4E672C3ECC5A008B25DD /* Diameter Of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */; };
 		404C4E692C3FCF5A008B25DD /* Course Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E682C3FCF5A008B25DD /* Course Schedule.swift */; };
 		404C4E6B2C3FDA80008B25DD /* Flood Fill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */; };
+		404C4E6D2C402B75008B25DD /* Maximum Width of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E6C2C402B75008B25DD /* Maximum Width of Binary Tree.swift */; };
 		4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4054468129C46E530099D6F9 /* Combination Sum IV.swift */; };
 		4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */; };
 		4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBC29BC996300CDF424 /* Reverse Integer.swift */; };
@@ -88,6 +89,7 @@
 		404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Diameter Of Binary Tree.swift"; sourceTree = "<group>"; };
 		404C4E682C3FCF5A008B25DD /* Course Schedule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Course Schedule.swift"; sourceTree = "<group>"; };
 		404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flood Fill.swift"; sourceTree = "<group>"; };
+		404C4E6C2C402B75008B25DD /* Maximum Width of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Width of Binary Tree.swift"; sourceTree = "<group>"; };
 		4054468129C46E530099D6F9 /* Combination Sum IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Combination Sum IV.swift"; sourceTree = "<group>"; };
 		4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decode Ways.swift"; sourceTree = "<group>"; };
 		4058EEBC29BC996300CDF424 /* Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -161,56 +163,57 @@
 		401037A229B7402A0033826A /* Problems */ = {
 			isa = PBXGroup;
 			children = (
-				401037A329B7402A0033826A /* main.swift */,
-				40AE84C729B8BF60007603D8 /* Nodes */,
-				40AE84CA29B8BF8C007603D8 /* PathSum3.swift */,
-				40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */,
-				40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */,
+				40BEBD3B29CC302300F1825A /*  Meeting Rooms II.swift */,
 				40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */,
-				40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */,
-				40A71C0F29BB2D49008F4585 /* Largest Number.swift */,
-				4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */,
-				4058EEBC29BC996300CDF424 /* Reverse Integer.swift */,
-				40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */,
-				407C36E129C0680300F6CA48 /* Reorder List.swift */,
-				40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */,
-				407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */,
 				407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */,
-				407D901B29C1CB5400643ED6 /* Rotate List.swift */,
-				40DD573B29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift */,
-				40058F8029D58B010027FF67 /* Basic Calculator.swift */,
+				407D901729C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift */,
 				40DD573D29C343DD0091793E /* Basic Calculator II.swift */,
+				40058F8029D58B010027FF67 /* Basic Calculator.swift */,
+				40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */,
+				40AE84CC29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift */,
+				40C5827929C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift */,
 				4054468129C46E530099D6F9 /* Combination Sum IV.swift */,
-				40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */,
-				400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */,
-				400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */,
-				400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */,
+				404C4E682C3FCF5A008B25DD /* Course Schedule.swift */,
+				4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */,
+				4088ED0729E3D55B00AC499B /* Design In-Memory File System.swift */,
+				404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */,
+				40BEBD3D29CC408F00F1825A /* Encode and Decode Strings.swift */,
+				4027736D29D42118000378C8 /* Find Median from Data Stream.swift */,
+				40DD573B29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift */,
+				404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */,
 				40A4781329C8E4E90057102D /* Graph Valid Tree.swift */,
+				40F57C3229CB1241006F488B /* Hit Counter.swift */,
 				40A4781529C9A35D0057102D /* Inorder Successor in BTS.swift */,
+				40AA299C29C4AC7A00EB4DF7 /* Insert Delete GetRandom O(1).swift */,
+				40A71C0F29BB2D49008F4585 /* Largest Number.swift */,
+				405F7DB529DC184E00ECBA6D /* Largest Rectangle in Histogram.swift */,
+				402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */,
+				40BBF6A929B9CED100AADCFB /* Longest Repeating Character Replacement.swift */,
+				4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */,
+				401037A329B7402A0033826A /* main.swift */,
+				40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */,
+				4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */,
+				404C4E6C2C402B75008B25DD /* Maximum Width of Binary Tree.swift */,
+				40E850C829DEBBFB0099CAD5 /* Median of Two Sorted Arrays.swift */,
+				400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */,
+				40A4906929D8368400597376 /* Merge k Sorted Lists.swift */,
+				40F57C3029CB07C4006F488B /* Minimum Knight Moves.swift */,
+				40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */,
+				400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */,
 				40A4781729C9C77A0057102D /* Number of Connected Components in an Undirected Graph.swift */,
 				40F57C2E29CAFB93006F488B /* Number of Provinces.swift */,
-				40F57C3029CB07C4006F488B /* Minimum Knight Moves.swift */,
-				40F57C3229CB1241006F488B /* Hit Counter.swift */,
-				40BEBD3B29CC302300F1825A /*  Meeting Rooms II.swift */,
-				40BEBD3D29CC408F00F1825A /* Encode and Decode Strings.swift */,
+				40AE84CA29B8BF8C007603D8 /* PathSum3.swift */,
+				407C36E129C0680300F6CA48 /* Reorder List.swift */,
+				4058EEBC29BC996300CDF424 /* Reverse Integer.swift */,
+				407D901B29C1CB5400643ED6 /* Rotate List.swift */,
+				40BBF6AE29B9F53000AADCFB /* Search a 2D matrix.swift */,
 				40A85A2D29D1797900CAA600 /* Serialize and Deserialize Binary Tree .swift */,
-				40A85A2F29D179D100CAA600 /* Minimum Window Substring.swift */,
-				40F1175229D2D95F00B56CC0 /* Trapping Rain Water.swift */,
-				4027736D29D42118000378C8 /* Find Median from Data Stream.swift */,
-				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
-				4048E48629D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift */,
-				40A4906929D8368400597376 /* Merge k Sorted Lists.swift */,
-				405F7DB529DC184E00ECBA6D /* Largest Rectangle in Histogram.swift */,
-				40A2BC1029DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift */,
-				40A2BC1229DD672C000E2A9E /* Maximum Frequency Stack.swift */,
-				40E850C829DEBBFB0099CAD5 /* Median of Two Sorted Arrays.swift */,
-				402FCC8129E2A112006233CE /* Longest Increasing Path in a Matrix.swift */,
-				4088ED0529E3D10700AC499B /* Longest Valid Parentheses.swift */,
-				4088ED0729E3D55B00AC499B /* Design In-Memory File System.swift */,
+				40980ECD29BF97AE00BBA661 /* Set Matrix Zeros.swift */,
+				400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */,
 				404C4E642C3D4C12008B25DD /* Task Scheduler.swift */,
-				404C4E662C3ECC5A008B25DD /* Diameter Of Binary Tree.swift */,
-				404C4E682C3FCF5A008B25DD /* Course Schedule.swift */,
-				404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */,
+				40F1175229D2D95F00B56CC0 /* Trapping Rain Water.swift */,
+				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
+				40AE84C729B8BF60007603D8 /* Nodes */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				40058F8129D58B010027FF67 /* Basic Calculator.swift in Sources */,
 				40A85A3029D179D100CAA600 /* Minimum Window Substring.swift in Sources */,
 				407C36E829C0684200F6CA48 /* Heap.swift in Sources */,
+				404C4E6D2C402B75008B25DD /* Maximum Width of Binary Tree.swift in Sources */,
 				40E850C929DEBBFB0099CAD5 /* Median of Two Sorted Arrays.swift in Sources */,
 				40F57C3329CB1241006F488B /* Hit Counter.swift in Sources */,
 				40DD573C29C319ED0091793E /* Find Minimum in Rotated Sorted Array.swift in Sources */,
