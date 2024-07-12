@@ -21,6 +21,7 @@
 		404C4E6B2C3FDA80008B25DD /* Flood Fill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */; };
 		404C4E6D2C402B75008B25DD /* Maximum Width of Binary Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E6C2C402B75008B25DD /* Maximum Width of Binary Tree.swift */; };
 		404C4E6F2C418761008B25DD /* Climbing Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E6E2C418761008B25DD /* Climbing Stairs.swift */; };
+		404C4E712C418DFE008B25DD /* Rotting Oranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 404C4E702C418DFE008B25DD /* Rotting Oranges.swift */; };
 		4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4054468129C46E530099D6F9 /* Combination Sum IV.swift */; };
 		4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */; };
 		4058EEBD29BC996300CDF424 /* Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4058EEBC29BC996300CDF424 /* Reverse Integer.swift */; };
@@ -92,6 +93,7 @@
 		404C4E6A2C3FDA7F008B25DD /* Flood Fill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Flood Fill.swift"; sourceTree = "<group>"; };
 		404C4E6C2C402B75008B25DD /* Maximum Width of Binary Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Maximum Width of Binary Tree.swift"; sourceTree = "<group>"; };
 		404C4E6E2C418761008B25DD /* Climbing Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Climbing Stairs.swift"; sourceTree = "<group>"; };
+		404C4E702C418DFE008B25DD /* Rotting Oranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rotting Oranges.swift"; sourceTree = "<group>"; };
 		4054468129C46E530099D6F9 /* Combination Sum IV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Combination Sum IV.swift"; sourceTree = "<group>"; };
 		4058EEBA29BC8E2900CDF424 /* Decode Ways.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Decode Ways.swift"; sourceTree = "<group>"; };
 		4058EEBC29BC996300CDF424 /* Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reverse Integer.swift"; sourceTree = "<group>"; };
@@ -217,6 +219,7 @@
 				40B4BAC929D485540082BCE9 /* Word Ladder.swift */,
 				40AE84C729B8BF60007603D8 /* Nodes */,
 				404C4E6E2C418761008B25DD /* Climbing Stairs.swift */,
+				404C4E702C418DFE008B25DD /* Rotting Oranges.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				40F1175329D2D95F00B56CC0 /* Trapping Rain Water.swift in Sources */,
 				404C4E6F2C418761008B25DD /* Climbing Stairs.swift in Sources */,
 				4048E48729D6F0A600EBB2AA /* Maximum Profit in Job Scheduling.swift in Sources */,
+				404C4E712C418DFE008B25DD /* Rotting Oranges.swift in Sources */,
 				40A71C1029BB2D49008F4585 /* Largest Number.swift in Sources */,
 				4027736E29D42118000378C8 /* Find Median from Data Stream.swift in Sources */,
 				40A2BC1129DD42EA000E2A9E /* Binary Tree Maximum Path Sum.swift in Sources */,
