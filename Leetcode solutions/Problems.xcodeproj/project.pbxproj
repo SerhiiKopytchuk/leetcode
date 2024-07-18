@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		40058F8129D58B010027FF67 /* Basic Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40058F8029D58B010027FF67 /* Basic Calculator.swift */; };
+		40084CB52C490572000B48DF /* First Bad Version.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40084CB42C490572000B48DF /* First Bad Version.swift */; };
+		40084CB72C49069E000B48DF /* RansomNote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40084CB62C49069E000B48DF /* RansomNote.swift */; };
+		40084CB92C490D4E000B48DF /*  Number of Good Leaf Nodes Pairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40084CB82C490D4E000B48DF /*  Number of Good Leaf Nodes Pairs.swift */; };
 		400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */; };
 		400CFCC829C5CB2E007DC1C6 /* Non-overlapping Intervals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */; };
 		400CFCCA29C5F832007DC1C6 /* Shortest Path to Get Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */; };
@@ -87,6 +90,9 @@
 
 /* Begin PBXFileReference section */
 		40058F8029D58B010027FF67 /* Basic Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Basic Calculator.swift"; sourceTree = "<group>"; };
+		40084CB42C490572000B48DF /* First Bad Version.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "First Bad Version.swift"; sourceTree = "<group>"; };
+		40084CB62C49069E000B48DF /* RansomNote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RansomNote.swift; sourceTree = "<group>"; };
+		40084CB82C490D4E000B48DF /*  Number of Good Leaf Nodes Pairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " Number of Good Leaf Nodes Pairs.swift"; sourceTree = "<group>"; };
 		400CFCC529C5CAD5007DC1C6 /* Meeting Rooms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Meeting Rooms.swift"; sourceTree = "<group>"; };
 		400CFCC729C5CB2E007DC1C6 /* Non-overlapping Intervals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Non-overlapping Intervals.swift"; sourceTree = "<group>"; };
 		400CFCC929C5F832007DC1C6 /* Shortest Path to Get Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Path to Get Food.swift"; sourceTree = "<group>"; };
@@ -183,6 +189,7 @@
 		401037A229B7402A0033826A /* Problems */ = {
 			isa = PBXGroup;
 			children = (
+				40084CB82C490D4E000B48DF /*  Number of Good Leaf Nodes Pairs.swift */,
 				40BEBD3B29CC302300F1825A /*  Meeting Rooms II.swift */,
 				40BBF6AC29B9D6FA00AADCFB /*  Pow(x, n).swift */,
 				407D901929C1B7AC00643ED6 /* 3Sum Closest.swift */,
@@ -244,6 +251,8 @@
 				404C4E7C2C452658008B25DD /* Linked List Cycle.swift */,
 				406645B62C46581200BC0CF9 /* Insert Interval.swift */,
 				406645B82C465C0700BC0CF9 /* Merge Intervals.swift */,
+				40084CB42C490572000B48DF /* First Bad Version.swift */,
+				40084CB62C49069E000B48DF /* RansomNote.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -287,7 +296,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
-				LastUpgradeCheck = 1430;
+				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					4010379F29B7402A0033826A = {
 						CreatedOnToolsVersion = 14.2;
@@ -346,6 +355,7 @@
 				40C5827A29C07A9F00AAE631 /* Cheapest Flights Within K Stops.swift in Sources */,
 				4054468229C46E530099D6F9 /* Combination Sum IV.swift in Sources */,
 				404C4E672C3ECC5A008B25DD /* Diameter Of Binary Tree.swift in Sources */,
+				40084CB72C49069E000B48DF /* RansomNote.swift in Sources */,
 				404C4E792C451C8E008B25DD /* Course Schedule II.swift in Sources */,
 				400CFCC629C5CAD5007DC1C6 /* Meeting Rooms.swift in Sources */,
 				40BEBD3C29CC302300F1825A /*  Meeting Rooms II.swift in Sources */,
@@ -375,11 +385,13 @@
 				401037A429B7402A0033826A /* main.swift in Sources */,
 				406645B92C465C0700BC0CF9 /* Merge Intervals.swift in Sources */,
 				407D901A29C1B7AC00643ED6 /* 3Sum Closest.swift in Sources */,
+				40084CB92C490D4E000B48DF /*  Number of Good Leaf Nodes Pairs.swift in Sources */,
 				404C4E692C3FCF5A008B25DD /* Course Schedule.swift in Sources */,
 				40AE84CD29B8BFD8007603D8 /* Binary Tree Zigzag Level Order Traversal.swift in Sources */,
 				4058EEBB29BC8E2900CDF424 /* Decode Ways.swift in Sources */,
 				40AE84C929B8BF77007603D8 /* TreeNode.swift in Sources */,
 				407D901829C1AED000643ED6 /* All Nodes Distance K in Binary Tree.swift in Sources */,
+				40084CB52C490572000B48DF /* First Bad Version.swift in Sources */,
 				407C36E629C0683700F6CA48 /* Node.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -391,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -424,6 +437,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -452,6 +466,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -485,6 +500,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;

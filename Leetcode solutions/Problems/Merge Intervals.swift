@@ -11,7 +11,7 @@ import Foundation
 // space: O(n)
 func merge(_ intervals: [[Int]]) -> [[Int]] {
     guard intervals.count > 1 else { return intervals }
-    var intervals = intervals.sorted { $0[0] < $1[0] }
+    var intervals = intervals.sorted { $0[01] < $1[0] }
 
     var i = 1
     while i < intervals.count {

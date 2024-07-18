@@ -20,7 +20,7 @@ func widthOfBinaryTree(_ root: TreeNode?) -> Int {
            let rNum = q[qSize - 1].1
            res = max(res, rNum - lNum + 1)
 
-           for i in 0..<qSize {
+           for _ in 0..<qSize {
                let (node, num) = q.removeFirst()
                let curNum = num - lNum
 

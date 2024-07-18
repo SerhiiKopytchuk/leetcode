@@ -9,8 +9,8 @@ import Foundation
 /// time: O(N)
 /// space: O(E +V)
 func lowestCommonAncestor(_ root: TreeNode?, _ p: TreeNode?, _ q: TreeNode?) -> TreeNode? {
-        var l = min(p?.val ?? 0, q?.val ?? 0)
-        var r = max(p?.val ?? 0, q?.val ?? 0)
+        let l = min(p?.val ?? 0, q?.val ?? 0)
+        let r = max(p?.val ?? 0, q?.val ?? 0)
 
         func dfs(_ node: TreeNode?) -> TreeNode? {
             guard let node else { return nil }
