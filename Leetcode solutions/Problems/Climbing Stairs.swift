@@ -14,7 +14,7 @@ func climbStairs(_ n: Int) -> Int {
     var last = 3
     var current = 5
 
-    for i in 3..<n {
+    for _ in 3..<n {
         let cur = current
         current += last
         last = cur

@@ -1,5 +1,5 @@
 //
-//  File.swift
+//   Pow(x, n).swift
 //  Problems
 //
 //  Created by Serhii Kopytchuk on 09.03.2023.

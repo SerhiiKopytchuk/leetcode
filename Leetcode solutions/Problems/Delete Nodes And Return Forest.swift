@@ -10,11 +10,11 @@ import Foundation
 // time: O(E+V)
 // space: O(n)
 func delNodes(_ root: TreeNode?, _ to_delete: [Int]) -> [TreeNode?] {
-    var delSet = Set(to_delete)
+    let delSet = Set(to_delete)
     var res: [TreeNode?] = []
 
     func dfs(_ node: TreeNode?) -> TreeNode? {
-        guard var node else { return nil }
+        guard let node else { return nil }
 
         node.left = dfs(node.left)
         node.right = dfs(node.right)

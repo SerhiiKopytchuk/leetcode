@@ -6,5 +6,6 @@
 //
 
 import Foundation
+import Algorithms
 
 /// Here you can run and test my solutions.

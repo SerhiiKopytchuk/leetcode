@@ -13,7 +13,7 @@ func orangesRotting(_ grid: [[Int]]) -> Int {
     var time = 0
     var grid = grid
     var q: [[Int]] = [] // [point]
-    var dirs = [[0, 1],[1, 0],[-1, 0],[0, -1]]
+    let dirs = [[0, 1],[1, 0],[-1, 0],[0, -1]]
     var freshOranges = 0
 
     for i in 0..<grid.count {
